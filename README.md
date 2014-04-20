@@ -1,3 +1,9 @@
+IMPORTANT
+=========
+
+For a more updated version of this tutorial check this repo: 
+https://github.com/damianavila/Python-Cientifico-HCC
+
 SciPyConAr_Python_Cientifico
 ============================
 
