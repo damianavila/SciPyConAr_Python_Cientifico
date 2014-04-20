@@ -5,7 +5,7 @@ Material (ipynbs) for the tutorial about Scientific Python (in Spanish).
 
 Material (ipynbs) para el tutorial de Python Científico dictado en la SciPyConAr 2013.
 
-Para ver los ipynbs *"rendeados"* online (no necesitás tener instalado IPython) a través de NBViewer:
+Para ver los ipynbs *rendeados* online (no necesitás tener instalado IPython) a través de NBViewer:
 
 * http://goo.gl/IIjBZ
 * http://goo.gl/xkXHp
